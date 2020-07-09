@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+
+
+![](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 <!--
 **furkankahvecii/furkankahvecii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
